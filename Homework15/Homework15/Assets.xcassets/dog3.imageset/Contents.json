@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "puppy-3143-ad4140d8f6055cda2cd8956d4af37ea9@1x.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
